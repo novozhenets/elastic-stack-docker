@@ -1,5 +1,3 @@
-app/.venv
-app/__pycache__
 troubleshooting.txt
 TODO.md
 elastic-stack-docker-part-two.wg
@@ -7,3 +5,4 @@ elastic-stack-docker-part-two.wg
 .gitignore
 new-arch.excalidraw
 base-arch.excalidraw
+.env
